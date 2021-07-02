@@ -1,6 +1,6 @@
 ### Hi there, I'm Dina - aka [Dinesh Lal][website] 👋
 
-## I'm Developer
+## I'm A Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
