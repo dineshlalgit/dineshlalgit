@@ -21,6 +21,6 @@
 
 [website]: https://dineshlal.codes
 [course]: http://codemonstro.tech
-[twitter]: https://twitter.com/dineshlal_dinu
+[twitter]: https://twitter.com/immortal_rajputs
 [instagram]: https://www.instagram.com/dineshlal_dinu/
 [linkedin]: https://www.linkedin.com/in/dinesh-lal/
