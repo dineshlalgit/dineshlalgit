@@ -2,7 +2,7 @@
 
 ## I'm A Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Ready to Design,Develop and Deploy.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
