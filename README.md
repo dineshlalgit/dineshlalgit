@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,8 +15,6 @@
 
 <br />
 
-
 <br />
 
-[website]: https://dineshlal.codes
-[linkedin]: https://www.linkedin.com/in/dinesh-lal/
+
